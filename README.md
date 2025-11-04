@@ -1,6 +1,6 @@
 # Movie Explorer Web App
 
-**Movie Explorer** is a web application built using **React.js** (or **Next.js**) that allows users to browse, search, and view detailed information about movies using the **TMDB API**. Users can also mark movies as favorites, with the favorites list persisted in **localStorage** across sessions.
+**Movie Explorer** is a web application built using **React.js** that allows users to browse, search, and view detailed information about movies using the **TMDB API**. Users can also mark movies as favorites, with the favorites list persisted in **localStorage** across sessions.
 
 ---
 
